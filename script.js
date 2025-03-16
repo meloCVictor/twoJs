@@ -71,18 +71,5 @@ square2.rotation = Math.PI / 4; // Rotacionando o quadrado 2
 group.fill = "blue"; // Aplicando cor a todos os quadrados do grupo
 twoGroup.update();
 
-// Exemplo 7: Gradiente
-const gradientParams = { width: 500, height: 500 };
-const twoGradient = createTwoInstance("gradient-example", gradientParams);
 
-// Criando um gradiente linear
-const gradient = twoGradient.makeLinearGradient(0, 0, 500, 500,
-  new Two.Stop(0, 'red'),
-  new Two.Stop(1, 'blue')
-);
 
-// Aplicando o gradiente ao retângulo
-const gradientRect = twoGradient.makeRectangle(250, 250, 300, 150);
-gradientRect.fill = gradient;
-
-twoGradient.update();
