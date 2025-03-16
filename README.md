@@ -1,6 +1,6 @@
 # Two.js - Exemplo de Gradiente Linear
 
-Este projeto demonstra como usar a biblioteca **Two.js** para criar gráficos 2D e aplicar um **animação** em uma forma geométrica. O exemplo mostra como configurar uma animação de um circulo.
+Este projeto demonstra como usar a biblioteca **Two.js** para criar gráficos 2D interativos. Ele inclui vários exemplos de formas geométricas, animações e manipulação de grupos de objetos. Cada exemplo é mostrado em um **canvas** separado, e você pode ver a execução de diferentes técnicas usando o Two.js.
 
 ## Tecnologias Utilizadas
 
