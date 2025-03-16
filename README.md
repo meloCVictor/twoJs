@@ -26,5 +26,5 @@ Para executar o exemplo, siga os passos abaixo:
    Você pode baixar o arquivo ZIP ou clonar o repositório usando Git:
 
    ```bash
-   git clone https://github.com/SEU-USUARIO/nome-do-repositorio.git
+   git clone https://github.com/meloCVictor/twoJs.git
 
